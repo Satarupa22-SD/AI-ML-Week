@@ -4,7 +4,7 @@ Welcome to the Major League Hacking AI/ML Week Project Repository! This reposito
 The aim of this project is to explore the applications of AI and ML in the real world. A few interesting challenges have been taken and have implemented the solutions using popular AI/ML libraries and frameworks. The Challenges range from simple python peojects to more complex AI implementations.
 
 ### Repository Structure:
-- Code: This directory contains the source code for the project, organized by case study. Each case study has its own subdirectory and includes the necessary code, data, and resources.
+- Challenges: This directory contains the source code for the project, organized by case study. Each case study has its own subdirectory and includes the necessary code, data, and resources.
 - Data: This directory contains the data used in the project, including both training and testing datasets.
 - Documentation: This directory contains the project documentation, project reports, and presentations.
 
